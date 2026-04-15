@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "title": "Sobre Nós",
+    "description": "Conheça o ATELIERH2O"
+  },
+  "hero": {
+    "title": "Sobre Nós",
+    "subtitle": "Sou Karina Machado, arquiteta com mais de 20 anos de experiência no mercado. Meu amor por arquitetura me levou a criar este blog, com o objetivo de compartilhar conhecimentos valiosos e facilitar a jornada de quem, assim como eu, busca encantamento e aprendizado no universo da construção e decoração."
+  },
+  "content": "No ATELIERH2O, você encontrará um espaço acolhedor dedicado à arquitetura, design e decoração. Aqui, acredito que a criatividade é a chave para a realização de projetos únicos e inspiradores. Compartilho minhas experiências e reflexões para ajudar você a construir o seu próprio caminho no fascinante mundo da arquitetura.",
+  "mission": "Minha missão é inspirar e educar, trazendo informações relevantes e práticas, promovendo o acesso ao conhecimento em arquitetura para todos.",
+  "image": "/images/sobre.jpg",
+  "stats": [
+    {
+      "value": "500+",
+      "label": "Artigos"
+    },
+    {
+      "value": "100k+",
+      "label": "Leitores"
+    },
+    {
+      "value": "5",
+      "label": "Redatores"
+    }
+  ],
+  "team": []
+}

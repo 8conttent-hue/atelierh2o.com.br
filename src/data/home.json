@@ -1,0 +1,70 @@
+{
+  "meta": {
+    "title": "ATELIERH2O — Bem-vindo ao ATELIERH2O",
+    "description": "A sua fonte de inspiração em arquitetura e decoração."
+  },
+  "hero": {
+    "title": "Bem-vindo ao ATELIERH2O",
+    "subtitle": "A sua fonte de inspiração em arquitetura e decoração.",
+    "btnText": "Descubra mais",
+    "bgImage": "/images/hero.jpg",
+    "btnLink": "/blog"
+  },
+  "features": {
+    "title": "O que você encontrará aqui",
+    "items": [
+      {
+        "icon": "🏠",
+        "title": "Arquitetura Criativa",
+        "desc": "Dicas e tendências para transformar seu espaço com criatividade."
+      },
+      {
+        "icon": "🎨",
+        "title": "Design de Interiores",
+        "desc": "Inspirações para tornar cada ambiente único e acolhedor."
+      },
+      {
+        "icon": "🛠️",
+        "title": "Análises Técnicas",
+        "desc": "Conteúdos profundos que desvendam os segredos da arquitetura."
+      },
+      {
+        "icon": "💡",
+        "title": "Dicas de Decoração",
+        "desc": "Sugestões práticas para enfeitar seu lar com bom gosto."
+      },
+      {
+        "icon": "📚",
+        "title": "Conteúdos para Todos",
+        "desc": "Informações que atendem desde iniciantes até profissionais da área."
+      }
+    ]
+  },
+  "about": {
+    "title": "Sobre a Karina Machado",
+    "desc": "Sou Karina Machado, arquiteta com mais de 20 anos de experiência no mercado. Meu amor por arquitetura me levou a criar este blog, com o objetivo de compartilhar conhecimentos valiosos e facilitar a jornada de quem, assim como eu, busca encantamento e aprendizado no universo da construção e decoração.",
+    "stats": [
+      {
+        "value": "20+",
+        "label": "Anos de Experiência"
+      },
+      {
+        "value": "500+",
+        "label": "Conteúdos Publicados"
+      },
+      {
+        "value": "1000+",
+        "label": "Leitores Satisfeitos"
+      }
+    ],
+    "image": "/images/about.jpg",
+    "btnText": "Saiba Mais",
+    "btnLink": "/sobre"
+  },
+  "posts": {
+    "title": "Últimos Artigos",
+    "limit": 3,
+    "btnText": "Ver Blog",
+    "btnLink": "/blog"
+  }
+}

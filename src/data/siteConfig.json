@@ -1,0 +1,53 @@
+{
+  "name": "ATELIERH2O",
+  "slug": "atelierh2o.com.br",
+  "description": "Seja muito bem vindo ao meu blog, meu nome é Karina Machado e esse é espaço que eu uso para falar sobre a minha paixão e experiência por arquitetura. Sinta-se em casa! Criei esse blog para dividir as minhas experiências, atuei por mais de 20 como arquiteta e quando comecei a me interessar por arquitetura, não tinha muito conteúdo disponível. Então decidi ajudar as pessoas que estão passando pelos mesmos problemas que eu. Minha maior motivação está em compartilhar tudo o que existe de mais relevante, bonito e interessante no universo da arquitetura, design, decoração e criatividade. Todos os leitores são muito bem vindos ao meu blog, dos níveis iniciantes ao avançado. Tenho diversos conteúdo para todos. Você vai encontrar análises técnicas sobre diversos assunto que envolvem arquitetura. Todas as análises são feitas com muita sabedoria e paixão antes de publicar.",
+  "url": "https://atelierh2o.com.br",
+  "niche": "Casa e Decoração",
+  "keywords": "Seja muito bem vindo ao meu blog meu nome e Karina Machado",
+  "email": "contato@atelierh2o.com.br",
+  "palette": "sunset",
+  "colors": {
+    "primary": "#f97316",
+    "accent": "#c2410c",
+    "dark": "#431407"
+  },
+  "headerContrast": "light",
+  "font": "lora",
+  "fontFamily": "'Lora', serif",
+  "fontUrl": "https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap",
+  "components": {
+    "header": "Header-H",
+    "hero": "Hero-G",
+    "features": "Features-C",
+    "about": "About-B",
+    "posts": "Posts-A",
+    "footer": "Footer-B",
+    "sobre": "Sobre-D",
+    "contato": "Contato-F"
+  },
+  "menu": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "Blog",
+      "href": "/blog"
+    },
+    {
+      "label": "Sobre",
+      "href": "/sobre"
+    },
+    {
+      "label": "Contato",
+      "href": "/contato"
+    }
+  ],
+  "social": {
+    "instagram": "",
+    "facebook": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
